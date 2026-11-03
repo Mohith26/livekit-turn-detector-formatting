@@ -1,0 +1,3842 @@
+[
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 0,
+  "complete": true,
+  "text": "I want to book a flight to Boston.",
+  "eou_probability": 0.93465
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 0,
+  "complete": false,
+  "text": "I want to book a flight to",
+  "eou_probability": 2e-05
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 1,
+  "complete": true,
+  "text": "It's March 3rd, 1998.",
+  "eou_probability": 0.85226
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 1,
+  "complete": false,
+  "text": "It's March 3rd and the year is",
+  "eou_probability": 0.00043
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 2,
+  "complete": true,
+  "text": "Sure, it's 415 555 0192.",
+  "eou_probability": 0.94676
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 2,
+  "complete": false,
+  "text": "Sure, it's 415 555",
+  "eou_probability": 0.00104
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 3,
+  "complete": true,
+  "text": "My internet keeps dropping every evening.",
+  "eou_probability": 0.22476
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 3,
+  "complete": false,
+  "text": "My internet keeps dropping every time I",
+  "eou_probability": 4e-05
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 4,
+  "complete": true,
+  "text": "Thursday afternoon works for me.",
+  "eou_probability": 0.95053
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 4,
+  "complete": false,
+  "text": "Thursday afternoon works, but only if",
+  "eou_probability": 0.00022
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 5,
+  "complete": true,
+  "text": "The large one, please.",
+  "eou_probability": 0.92805
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 5,
+  "complete": false,
+  "text": "The large one, and could you also",
+  "eou_probability": 0.00015
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 6,
+  "complete": true,
+  "text": "It's 450 Main Street, Springfield.",
+  "eou_probability": 0.93786
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 6,
+  "complete": false,
+  "text": "It's 450 Main Street, apartment",
+  "eou_probability": 0.00489
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 7,
+  "complete": true,
+  "text": "No, that's everything. Thanks!",
+  "eou_probability": 0.96075
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 7,
+  "complete": false,
+  "text": "Actually, yes. I was wondering whether",
+  "eou_probability": 4e-05
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 8,
+  "complete": true,
+  "text": "It's under Rivera.",
+  "eou_probability": 0.93509
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 8,
+  "complete": false,
+  "text": "It's under my last name, which is",
+  "eou_probability": 0.00072
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 9,
+  "complete": true,
+  "text": "There will be four of us.",
+  "eou_probability": 0.83937
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 9,
+  "complete": false,
+  "text": "There will be four of us, plus maybe",
+  "eou_probability": 0.00072
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 10,
+  "complete": true,
+  "text": "It's just too expensive for me right now.",
+  "eou_probability": 0.7116
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 10,
+  "complete": false,
+  "text": "It's just too expensive, and also the",
+  "eou_probability": 1e-05
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 11,
+  "complete": true,
+  "text": "Set it for 7 AM tomorrow.",
+  "eou_probability": 0.92874
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 11,
+  "complete": false,
+  "text": "Set it for 7 AM tomorrow and then",
+  "eou_probability": 0.00028
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 12,
+  "complete": true,
+  "text": "My checking account.",
+  "eou_probability": 0.71673
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 12,
+  "complete": false,
+  "text": "My checking account, the one that ends in",
+  "eou_probability": 0.00081
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 13,
+  "complete": true,
+  "text": "A chicken burrito bowl with extra rice.",
+  "eou_probability": 0.91976
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 13,
+  "complete": false,
+  "text": "A chicken burrito bowl with",
+  "eou_probability": 0.00067
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 14,
+  "complete": true,
+  "text": "It's a loud grinding sound when I brake.",
+  "eou_probability": 0.87167
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 14,
+  "complete": false,
+  "text": "It's a loud grinding sound when I",
+  "eou_probability": 0.0
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 15,
+  "complete": true,
+  "text": "From Raleigh Durham.",
+  "eou_probability": 0.96264
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 15,
+  "complete": false,
+  "text": "From Raleigh, but I might drive to",
+  "eou_probability": 0.00674
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 16,
+  "complete": true,
+  "text": "It's sam at example dot com.",
+  "eou_probability": 0.9415
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 16,
+  "complete": false,
+  "text": "It's sam at",
+  "eou_probability": 0.00613
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 17,
+  "complete": true,
+  "text": "I'd give it a seven out of ten.",
+  "eou_probability": 0.81378
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 17,
+  "complete": false,
+  "text": "I'd give it a seven, maybe an eight, because",
+  "eou_probability": 8e-05
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 18,
+  "complete": true,
+  "text": "Yes, I'm allergic to peanuts.",
+  "eou_probability": 0.52562
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 18,
+  "complete": false,
+  "text": "Yes, I'm allergic to",
+  "eou_probability": 0.00022
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 19,
+  "complete": true,
+  "text": "Can you tell me my current balance?",
+  "eou_probability": 0.96322
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 19,
+  "complete": false,
+  "text": "Can you tell me my current balance and",
+  "eou_probability": 1e-05
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 20,
+  "complete": true,
+  "text": "About two weeks ago.",
+  "eou_probability": 0.52352
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 20,
+  "complete": false,
+  "text": "About two weeks ago, right after I",
+  "eou_probability": 2e-05
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 21,
+  "complete": true,
+  "text": "Medium.",
+  "eou_probability": 0.83461
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 21,
+  "complete": false,
+  "text": "Usually a medium, but in this brand I",
+  "eou_probability": 1e-05
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 22,
+  "complete": true,
+  "text": "I've had a headache for three days.",
+  "eou_probability": 0.12997
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 22,
+  "complete": false,
+  "text": "I've had a headache for three days and",
+  "eou_probability": 1e-05
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 23,
+  "complete": true,
+  "text": "Window, please.",
+  "eou_probability": 0.95897
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 23,
+  "complete": false,
+  "text": "Window, unless the only ones left are",
+  "eou_probability": 0.00662
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 24,
+  "complete": true,
+  "text": "A friend recommended you.",
+  "eou_probability": 0.75356
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 24,
+  "complete": false,
+  "text": "A friend of mine who works at",
+  "eou_probability": 0.00248
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 25,
+  "complete": true,
+  "text": "It's 48213.",
+  "eou_probability": 0.95577
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 25,
+  "complete": false,
+  "text": "It's 482",
+  "eou_probability": 0.00281
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 26,
+  "complete": true,
+  "text": "I'm in Durham, North Carolina.",
+  "eou_probability": 0.95087
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 26,
+  "complete": false,
+  "text": "I'm in Durham, North",
+  "eou_probability": 8e-05
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 27,
+  "complete": true,
+  "text": "Around five hundred dollars.",
+  "eou_probability": 0.84455
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 27,
+  "complete": false,
+  "text": "Around five hundred, but I could go up to",
+  "eou_probability": 0.00055
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 28,
+  "complete": true,
+  "text": "R I V E R A.",
+  "eou_probability": 0.93941
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 28,
+  "complete": false,
+  "text": "R I V",
+  "eou_probability": 0.00127
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 29,
+  "complete": true,
+  "text": "Tell her I'll be ten minutes late.",
+  "eou_probability": 0.8255
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 29,
+  "complete": false,
+  "text": "Tell her I'll be ten minutes late because",
+  "eou_probability": 0.00102
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 30,
+  "complete": true,
+  "text": "Personal.",
+  "eou_probability": 0.92691
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 30,
+  "complete": false,
+  "text": "Mostly personal, but sometimes I",
+  "eou_probability": 0.0
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 31,
+  "complete": true,
+  "text": "I'd like to move my flight to Friday.",
+  "eou_probability": 0.86937
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 31,
+  "complete": false,
+  "text": "I'd like to move my flight to",
+  "eou_probability": 0.00024
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 32,
+  "complete": true,
+  "text": "Yes, it's working now.",
+  "eou_probability": 0.76259
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 32,
+  "complete": false,
+  "text": "Yes, it's working now, but the",
+  "eou_probability": 2e-05
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 33,
+  "complete": true,
+  "text": "It's A B 7 7 3 9 1.",
+  "eou_probability": 0.98364
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 33,
+  "complete": false,
+  "text": "It's A B 7 7",
+  "eou_probability": 0.00533
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 34,
+  "complete": true,
+  "text": "Since 2019.",
+  "eou_probability": 0.95509
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 34,
+  "complete": false,
+  "text": "Since 2019, and before that I had",
+  "eou_probability": 0.00598
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 35,
+  "complete": true,
+  "text": "A king room for two nights.",
+  "eou_probability": 0.92945
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 35,
+  "complete": false,
+  "text": "A king room for",
+  "eou_probability": 0.0016
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 36,
+  "complete": true,
+  "text": "English is fine.",
+  "eou_probability": 0.81411
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 36,
+  "complete": false,
+  "text": "English is fine, or if you have",
+  "eou_probability": 0.00051
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 37,
+  "complete": true,
+  "text": "Any time after 5 PM.",
+  "eou_probability": 0.8746
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 37,
+  "complete": false,
+  "text": "Any time after",
+  "eou_probability": 0.0001
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 38,
+  "complete": true,
+  "text": "I need to reset my password.",
+  "eou_probability": 0.49192
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 38,
+  "complete": false,
+  "text": "I need to reset my password, but I don't have access to",
+  "eou_probability": 0.00038
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 39,
+  "complete": true,
+  "text": "Nothing loaded for about an hour.",
+  "eou_probability": 0.63146
+ },
+ {
+  "model": "en",
+  "format": "punctuated",
+  "i": 39,
+  "complete": false,
+  "text": "Nothing loaded for about an hour, and when it came back the",
+  "eou_probability": 1e-05
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 0,
+  "complete": true,
+  "text": "I want to book a flight to Boston.",
+  "eou_probability": 0.93465
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 0,
+  "complete": false,
+  "text": "I want to book a flight to.",
+  "eou_probability": 0.86953
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 1,
+  "complete": true,
+  "text": "It's March 3rd, 1998.",
+  "eou_probability": 0.85226
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 1,
+  "complete": false,
+  "text": "It's March 3rd and the year is.",
+  "eou_probability": 0.69875
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 2,
+  "complete": true,
+  "text": "Sure, it's 415 555 0192.",
+  "eou_probability": 0.94676
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 2,
+  "complete": false,
+  "text": "Sure, it's 415 555.",
+  "eou_probability": 0.94033
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 3,
+  "complete": true,
+  "text": "My internet keeps dropping every evening.",
+  "eou_probability": 0.22476
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 3,
+  "complete": false,
+  "text": "My internet keeps dropping every time I.",
+  "eou_probability": 0.30123
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 4,
+  "complete": true,
+  "text": "Thursday afternoon works for me.",
+  "eou_probability": 0.95053
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 4,
+  "complete": false,
+  "text": "Thursday afternoon works, but only if.",
+  "eou_probability": 0.83057
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 5,
+  "complete": true,
+  "text": "The large one, please.",
+  "eou_probability": 0.92805
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 5,
+  "complete": false,
+  "text": "The large one, and could you also.",
+  "eou_probability": 0.75568
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 6,
+  "complete": true,
+  "text": "It's 450 Main Street, Springfield.",
+  "eou_probability": 0.93786
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 6,
+  "complete": false,
+  "text": "It's 450 Main Street, apartment.",
+  "eou_probability": 0.89869
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 7,
+  "complete": true,
+  "text": "No, that's everything. Thanks!",
+  "eou_probability": 0.96075
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 7,
+  "complete": false,
+  "text": "Actually, yes. I was wondering whether.",
+  "eou_probability": 0.65015
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 8,
+  "complete": true,
+  "text": "It's under Rivera.",
+  "eou_probability": 0.93509
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 8,
+  "complete": false,
+  "text": "It's under my last name, which is.",
+  "eou_probability": 0.78375
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 9,
+  "complete": true,
+  "text": "There will be four of us.",
+  "eou_probability": 0.83937
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 9,
+  "complete": false,
+  "text": "There will be four of us, plus maybe.",
+  "eou_probability": 0.6706
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 10,
+  "complete": true,
+  "text": "It's just too expensive for me right now.",
+  "eou_probability": 0.7116
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 10,
+  "complete": false,
+  "text": "It's just too expensive, and also the.",
+  "eou_probability": 0.63842
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 11,
+  "complete": true,
+  "text": "Set it for 7 AM tomorrow.",
+  "eou_probability": 0.92874
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 11,
+  "complete": false,
+  "text": "Set it for 7 AM tomorrow and then.",
+  "eou_probability": 0.86117
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 12,
+  "complete": true,
+  "text": "My checking account.",
+  "eou_probability": 0.71673
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 12,
+  "complete": false,
+  "text": "My checking account, the one that ends in.",
+  "eou_probability": 0.59182
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 13,
+  "complete": true,
+  "text": "A chicken burrito bowl with extra rice.",
+  "eou_probability": 0.91976
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 13,
+  "complete": false,
+  "text": "A chicken burrito bowl with.",
+  "eou_probability": 0.94143
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 14,
+  "complete": true,
+  "text": "It's a loud grinding sound when I brake.",
+  "eou_probability": 0.87167
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 14,
+  "complete": false,
+  "text": "It's a loud grinding sound when I.",
+  "eou_probability": 0.8287
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 15,
+  "complete": true,
+  "text": "From Raleigh Durham.",
+  "eou_probability": 0.96264
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 15,
+  "complete": false,
+  "text": "From Raleigh, but I might drive to.",
+  "eou_probability": 0.86344
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 16,
+  "complete": true,
+  "text": "It's sam at example dot com.",
+  "eou_probability": 0.9415
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 16,
+  "complete": false,
+  "text": "It's sam at.",
+  "eou_probability": 0.86842
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 17,
+  "complete": true,
+  "text": "I'd give it a seven out of ten.",
+  "eou_probability": 0.81378
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 17,
+  "complete": false,
+  "text": "I'd give it a seven, maybe an eight, because.",
+  "eou_probability": 0.65675
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 18,
+  "complete": true,
+  "text": "Yes, I'm allergic to peanuts.",
+  "eou_probability": 0.52562
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 18,
+  "complete": false,
+  "text": "Yes, I'm allergic to.",
+  "eou_probability": 0.39886
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 19,
+  "complete": true,
+  "text": "Can you tell me my current balance?",
+  "eou_probability": 0.96322
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 19,
+  "complete": false,
+  "text": "Can you tell me my current balance and.",
+  "eou_probability": 0.69733
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 20,
+  "complete": true,
+  "text": "About two weeks ago.",
+  "eou_probability": 0.52352
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 20,
+  "complete": false,
+  "text": "About two weeks ago, right after I.",
+  "eou_probability": 0.62915
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 21,
+  "complete": true,
+  "text": "Medium.",
+  "eou_probability": 0.83461
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 21,
+  "complete": false,
+  "text": "Usually a medium, but in this brand I.",
+  "eou_probability": 0.43674
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 22,
+  "complete": true,
+  "text": "I've had a headache for three days.",
+  "eou_probability": 0.12997
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 22,
+  "complete": false,
+  "text": "I've had a headache for three days and.",
+  "eou_probability": 0.17819
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 23,
+  "complete": true,
+  "text": "Window, please.",
+  "eou_probability": 0.95897
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 23,
+  "complete": false,
+  "text": "Window, unless the only ones left are.",
+  "eou_probability": 0.87494
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 24,
+  "complete": true,
+  "text": "A friend recommended you.",
+  "eou_probability": 0.75356
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 24,
+  "complete": false,
+  "text": "A friend of mine who works at.",
+  "eou_probability": 0.58947
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 25,
+  "complete": true,
+  "text": "It's 48213.",
+  "eou_probability": 0.95577
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 25,
+  "complete": false,
+  "text": "It's 482.",
+  "eou_probability": 0.93008
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 26,
+  "complete": true,
+  "text": "I'm in Durham, North Carolina.",
+  "eou_probability": 0.95087
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 26,
+  "complete": false,
+  "text": "I'm in Durham, North.",
+  "eou_probability": 0.93583
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 27,
+  "complete": true,
+  "text": "Around five hundred dollars.",
+  "eou_probability": 0.84455
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 27,
+  "complete": false,
+  "text": "Around five hundred, but I could go up to.",
+  "eou_probability": 0.61777
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 28,
+  "complete": true,
+  "text": "R I V E R A.",
+  "eou_probability": 0.93941
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 28,
+  "complete": false,
+  "text": "R I V.",
+  "eou_probability": 0.85688
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 29,
+  "complete": true,
+  "text": "Tell her I'll be ten minutes late.",
+  "eou_probability": 0.8255
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 29,
+  "complete": false,
+  "text": "Tell her I'll be ten minutes late because.",
+  "eou_probability": 0.76088
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 30,
+  "complete": true,
+  "text": "Personal.",
+  "eou_probability": 0.92691
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 30,
+  "complete": false,
+  "text": "Mostly personal, but sometimes I.",
+  "eou_probability": 0.48096
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 31,
+  "complete": true,
+  "text": "I'd like to move my flight to Friday.",
+  "eou_probability": 0.86937
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 31,
+  "complete": false,
+  "text": "I'd like to move my flight to.",
+  "eou_probability": 0.76483
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 32,
+  "complete": true,
+  "text": "Yes, it's working now.",
+  "eou_probability": 0.76259
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 32,
+  "complete": false,
+  "text": "Yes, it's working now, but the.",
+  "eou_probability": 0.64801
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 33,
+  "complete": true,
+  "text": "It's A B 7 7 3 9 1.",
+  "eou_probability": 0.98364
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 33,
+  "complete": false,
+  "text": "It's A B 7 7.",
+  "eou_probability": 0.84186
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 34,
+  "complete": true,
+  "text": "Since 2019.",
+  "eou_probability": 0.95509
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 34,
+  "complete": false,
+  "text": "Since 2019, and before that I had.",
+  "eou_probability": 0.7237
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 35,
+  "complete": true,
+  "text": "A king room for two nights.",
+  "eou_probability": 0.92945
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 35,
+  "complete": false,
+  "text": "A king room for.",
+  "eou_probability": 0.91436
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 36,
+  "complete": true,
+  "text": "English is fine.",
+  "eou_probability": 0.81411
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 36,
+  "complete": false,
+  "text": "English is fine, or if you have.",
+  "eou_probability": 0.82319
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 37,
+  "complete": true,
+  "text": "Any time after 5 PM.",
+  "eou_probability": 0.8746
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 37,
+  "complete": false,
+  "text": "Any time after.",
+  "eou_probability": 0.83378
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 38,
+  "complete": true,
+  "text": "I need to reset my password.",
+  "eou_probability": 0.49192
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 38,
+  "complete": false,
+  "text": "I need to reset my password, but I don't have access to.",
+  "eou_probability": 0.49656
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 39,
+  "complete": true,
+  "text": "Nothing loaded for about an hour.",
+  "eou_probability": 0.63146
+ },
+ {
+  "model": "en",
+  "format": "punctuated+period",
+  "i": 39,
+  "complete": false,
+  "text": "Nothing loaded for about an hour, and when it came back the.",
+  "eou_probability": 0.54136
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 0,
+  "complete": true,
+  "text": "i want to book a flight to boston",
+  "eou_probability": 0.03135
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 0,
+  "complete": false,
+  "text": "i want to book a flight to",
+  "eou_probability": 0.0001
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 1,
+  "complete": true,
+  "text": "it's march 3rd 1998",
+  "eou_probability": 0.22805
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 1,
+  "complete": false,
+  "text": "it's march 3rd and the year is",
+  "eou_probability": 0.00063
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 2,
+  "complete": true,
+  "text": "sure it's 415 555 0192",
+  "eou_probability": 0.23996
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 2,
+  "complete": false,
+  "text": "sure it's 415 555",
+  "eou_probability": 0.00022
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 3,
+  "complete": true,
+  "text": "my internet keeps dropping every evening",
+  "eou_probability": 0.03819
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 3,
+  "complete": false,
+  "text": "my internet keeps dropping every time i",
+  "eou_probability": 0.00022
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 4,
+  "complete": true,
+  "text": "thursday afternoon works for me",
+  "eou_probability": 0.10114
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 4,
+  "complete": false,
+  "text": "thursday afternoon works but only if",
+  "eou_probability": 0.00014
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 5,
+  "complete": true,
+  "text": "the large one please",
+  "eou_probability": 0.0635
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 5,
+  "complete": false,
+  "text": "the large one and could you also",
+  "eou_probability": 0.00074
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 6,
+  "complete": true,
+  "text": "it's 450 main street springfield",
+  "eou_probability": 0.00502
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 6,
+  "complete": false,
+  "text": "it's 450 main street apartment",
+  "eou_probability": 0.0613
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 7,
+  "complete": true,
+  "text": "no that's everything thanks",
+  "eou_probability": 0.17411
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 7,
+  "complete": false,
+  "text": "actually yes i was wondering whether",
+  "eou_probability": 8e-05
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 8,
+  "complete": true,
+  "text": "it's under rivera",
+  "eou_probability": 0.04208
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 8,
+  "complete": false,
+  "text": "it's under my last name which is",
+  "eou_probability": 0.00227
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 9,
+  "complete": true,
+  "text": "there will be four of us",
+  "eou_probability": 0.04453
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 9,
+  "complete": false,
+  "text": "there will be four of us plus maybe",
+  "eou_probability": 0.00828
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 10,
+  "complete": true,
+  "text": "it's just too expensive for me right now",
+  "eou_probability": 0.05386
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 10,
+  "complete": false,
+  "text": "it's just too expensive and also the",
+  "eou_probability": 3e-05
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 11,
+  "complete": true,
+  "text": "set it for 7 am tomorrow",
+  "eou_probability": 0.05984
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 11,
+  "complete": false,
+  "text": "set it for 7 am tomorrow and then",
+  "eou_probability": 0.00109
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 12,
+  "complete": true,
+  "text": "my checking account",
+  "eou_probability": 0.02671
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 12,
+  "complete": false,
+  "text": "my checking account the one that ends in",
+  "eou_probability": 0.00189
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 13,
+  "complete": true,
+  "text": "a chicken burrito bowl with extra rice",
+  "eou_probability": 0.0865
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 13,
+  "complete": false,
+  "text": "a chicken burrito bowl with",
+  "eou_probability": 0.00114
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 14,
+  "complete": true,
+  "text": "it's a loud grinding sound when i brake",
+  "eou_probability": 0.00702
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 14,
+  "complete": false,
+  "text": "it's a loud grinding sound when i",
+  "eou_probability": 0.0
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 15,
+  "complete": true,
+  "text": "from raleigh durham",
+  "eou_probability": 0.06032
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 15,
+  "complete": false,
+  "text": "from raleigh but i might drive to",
+  "eou_probability": 0.02871
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 16,
+  "complete": true,
+  "text": "it's sam at example dot com",
+  "eou_probability": 0.00109
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 16,
+  "complete": false,
+  "text": "it's sam at",
+  "eou_probability": 0.01229
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 17,
+  "complete": true,
+  "text": "i'd give it a seven out of ten",
+  "eou_probability": 0.02525
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 17,
+  "complete": false,
+  "text": "i'd give it a seven maybe an eight because",
+  "eou_probability": 0.00011
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 18,
+  "complete": true,
+  "text": "yes i'm allergic to peanuts",
+  "eou_probability": 0.01312
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 18,
+  "complete": false,
+  "text": "yes i'm allergic to",
+  "eou_probability": 0.00024
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 19,
+  "complete": true,
+  "text": "can you tell me my current balance",
+  "eou_probability": 0.04626
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 19,
+  "complete": false,
+  "text": "can you tell me my current balance and",
+  "eou_probability": 1e-05
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 20,
+  "complete": true,
+  "text": "about two weeks ago",
+  "eou_probability": 0.03034
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 20,
+  "complete": false,
+  "text": "about two weeks ago right after i",
+  "eou_probability": 8e-05
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 21,
+  "complete": true,
+  "text": "medium",
+  "eou_probability": 0.14386
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 21,
+  "complete": false,
+  "text": "usually a medium but in this brand i",
+  "eou_probability": 6e-05
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 22,
+  "complete": true,
+  "text": "i've had a headache for three days",
+  "eou_probability": 0.07881
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 22,
+  "complete": false,
+  "text": "i've had a headache for three days and",
+  "eou_probability": 2e-05
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 23,
+  "complete": true,
+  "text": "window please",
+  "eou_probability": 0.15458
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 23,
+  "complete": false,
+  "text": "window unless the only ones left are",
+  "eou_probability": 0.00829
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 24,
+  "complete": true,
+  "text": "a friend recommended you",
+  "eou_probability": 0.00841
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 24,
+  "complete": false,
+  "text": "a friend of mine who works at",
+  "eou_probability": 0.00287
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 25,
+  "complete": true,
+  "text": "it's 48213",
+  "eou_probability": 0.15551
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 25,
+  "complete": false,
+  "text": "it's 482",
+  "eou_probability": 0.00315
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 26,
+  "complete": true,
+  "text": "i'm in durham north carolina",
+  "eou_probability": 0.11296
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 26,
+  "complete": false,
+  "text": "i'm in durham north",
+  "eou_probability": 0.21389
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 27,
+  "complete": true,
+  "text": "around five hundred dollars",
+  "eou_probability": 0.14679
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 27,
+  "complete": false,
+  "text": "around five hundred but i could go up to",
+  "eou_probability": 0.00049
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 28,
+  "complete": true,
+  "text": "r i v e r a",
+  "eou_probability": 0.01975
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 28,
+  "complete": false,
+  "text": "r i v",
+  "eou_probability": 0.0044
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 29,
+  "complete": true,
+  "text": "tell her i'll be ten minutes late",
+  "eou_probability": 0.13
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 29,
+  "complete": false,
+  "text": "tell her i'll be ten minutes late because",
+  "eou_probability": 0.00291
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 30,
+  "complete": true,
+  "text": "personal",
+  "eou_probability": 0.34332
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 30,
+  "complete": false,
+  "text": "mostly personal but sometimes i",
+  "eou_probability": 8e-05
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 31,
+  "complete": true,
+  "text": "i'd like to move my flight to friday",
+  "eou_probability": 0.05371
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 31,
+  "complete": false,
+  "text": "i'd like to move my flight to",
+  "eou_probability": 0.00044
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 32,
+  "complete": true,
+  "text": "yes it's working now",
+  "eou_probability": 0.1761
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 32,
+  "complete": false,
+  "text": "yes it's working now but the",
+  "eou_probability": 2e-05
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 33,
+  "complete": true,
+  "text": "it's a b 7 7 3 9 1",
+  "eou_probability": 0.00156
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 33,
+  "complete": false,
+  "text": "it's a b 7 7",
+  "eou_probability": 0.00375
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 34,
+  "complete": true,
+  "text": "since 2019",
+  "eou_probability": 0.10342
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 34,
+  "complete": false,
+  "text": "since 2019 and before that i had",
+  "eou_probability": 0.01702
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 35,
+  "complete": true,
+  "text": "a king room for two nights",
+  "eou_probability": 0.11224
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 35,
+  "complete": false,
+  "text": "a king room for",
+  "eou_probability": 0.0016
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 36,
+  "complete": true,
+  "text": "english is fine",
+  "eou_probability": 0.14093
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 36,
+  "complete": false,
+  "text": "english is fine or if you have",
+  "eou_probability": 0.00113
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 37,
+  "complete": true,
+  "text": "any time after 5 pm",
+  "eou_probability": 0.07078
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 37,
+  "complete": false,
+  "text": "any time after",
+  "eou_probability": 0.00016
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 38,
+  "complete": true,
+  "text": "i need to reset my password",
+  "eou_probability": 0.02843
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 38,
+  "complete": false,
+  "text": "i need to reset my password but i don't have access to",
+  "eou_probability": 0.00166
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 39,
+  "complete": true,
+  "text": "nothing loaded for about an hour",
+  "eou_probability": 0.06148
+ },
+ {
+  "model": "en",
+  "format": "plain",
+  "i": 39,
+  "complete": false,
+  "text": "nothing loaded for about an hour and when it came back the",
+  "eou_probability": 1e-05
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 0,
+  "complete": true,
+  "text": "I want to book a flight to Boston.",
+  "eou_probability": 0.40828
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 0,
+  "complete": false,
+  "text": "I want to book a flight to",
+  "eou_probability": 0.0005
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 1,
+  "complete": true,
+  "text": "It's March 3rd, 1998.",
+  "eou_probability": 0.89355
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 1,
+  "complete": false,
+  "text": "It's March 3rd and the year is",
+  "eou_probability": 0.00674
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 2,
+  "complete": true,
+  "text": "Sure, it's 415 555 0192.",
+  "eou_probability": 0.95113
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 2,
+  "complete": false,
+  "text": "Sure, it's 415 555",
+  "eou_probability": 0.00187
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 3,
+  "complete": true,
+  "text": "My internet keeps dropping every evening.",
+  "eou_probability": 0.51321
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 3,
+  "complete": false,
+  "text": "My internet keeps dropping every time I",
+  "eou_probability": 1e-05
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 4,
+  "complete": true,
+  "text": "Thursday afternoon works for me.",
+  "eou_probability": 0.94821
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 4,
+  "complete": false,
+  "text": "Thursday afternoon works, but only if",
+  "eou_probability": 0.00037
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 5,
+  "complete": true,
+  "text": "The large one, please.",
+  "eou_probability": 0.86282
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 5,
+  "complete": false,
+  "text": "The large one, and could you also",
+  "eou_probability": 0.0006
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 6,
+  "complete": true,
+  "text": "It's 450 Main Street, Springfield.",
+  "eou_probability": 0.47888
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 6,
+  "complete": false,
+  "text": "It's 450 Main Street, apartment",
+  "eou_probability": 0.00052
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 7,
+  "complete": true,
+  "text": "No, that's everything. Thanks!",
+  "eou_probability": 0.68886
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 7,
+  "complete": false,
+  "text": "Actually, yes. I was wondering whether",
+  "eou_probability": 0.00036
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 8,
+  "complete": true,
+  "text": "It's under Rivera.",
+  "eou_probability": 0.36872
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 8,
+  "complete": false,
+  "text": "It's under my last name, which is",
+  "eou_probability": 0.00142
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 9,
+  "complete": true,
+  "text": "There will be four of us.",
+  "eou_probability": 0.65148
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 9,
+  "complete": false,
+  "text": "There will be four of us, plus maybe",
+  "eou_probability": 0.00064
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 10,
+  "complete": true,
+  "text": "It's just too expensive for me right now.",
+  "eou_probability": 0.67757
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 10,
+  "complete": false,
+  "text": "It's just too expensive, and also the",
+  "eou_probability": 0.00013
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 11,
+  "complete": true,
+  "text": "Set it for 7 AM tomorrow.",
+  "eou_probability": 0.68827
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 11,
+  "complete": false,
+  "text": "Set it for 7 AM tomorrow and then",
+  "eou_probability": 0.00196
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 12,
+  "complete": true,
+  "text": "My checking account.",
+  "eou_probability": 0.836
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 12,
+  "complete": false,
+  "text": "My checking account, the one that ends in",
+  "eou_probability": 0.00059
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 13,
+  "complete": true,
+  "text": "A chicken burrito bowl with extra rice.",
+  "eou_probability": 0.11934
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 13,
+  "complete": false,
+  "text": "A chicken burrito bowl with",
+  "eou_probability": 0.0004
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 14,
+  "complete": true,
+  "text": "It's a loud grinding sound when I brake.",
+  "eou_probability": 0.4417
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 14,
+  "complete": false,
+  "text": "It's a loud grinding sound when I",
+  "eou_probability": 1e-05
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 15,
+  "complete": true,
+  "text": "From Raleigh Durham.",
+  "eou_probability": 0.16156
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 15,
+  "complete": false,
+  "text": "From Raleigh, but I might drive to",
+  "eou_probability": 0.0007
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 16,
+  "complete": true,
+  "text": "It's sam at example dot com.",
+  "eou_probability": 0.93735
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 16,
+  "complete": false,
+  "text": "It's sam at",
+  "eou_probability": 0.00012
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 17,
+  "complete": true,
+  "text": "I'd give it a seven out of ten.",
+  "eou_probability": 0.62368
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 17,
+  "complete": false,
+  "text": "I'd give it a seven, maybe an eight, because",
+  "eou_probability": 0.00074
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 18,
+  "complete": true,
+  "text": "Yes, I'm allergic to peanuts.",
+  "eou_probability": 0.70348
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 18,
+  "complete": false,
+  "text": "Yes, I'm allergic to",
+  "eou_probability": 0.0005
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 19,
+  "complete": true,
+  "text": "Can you tell me my current balance?",
+  "eou_probability": 0.70247
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 19,
+  "complete": false,
+  "text": "Can you tell me my current balance and",
+  "eou_probability": 9e-05
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 20,
+  "complete": true,
+  "text": "About two weeks ago.",
+  "eou_probability": 0.83741
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 20,
+  "complete": false,
+  "text": "About two weeks ago, right after I",
+  "eou_probability": 7e-05
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 21,
+  "complete": true,
+  "text": "Medium.",
+  "eou_probability": 0.55515
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 21,
+  "complete": false,
+  "text": "Usually a medium, but in this brand I",
+  "eou_probability": 5e-05
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 22,
+  "complete": true,
+  "text": "I've had a headache for three days.",
+  "eou_probability": 0.2614
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 22,
+  "complete": false,
+  "text": "I've had a headache for three days and",
+  "eou_probability": 4e-05
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 23,
+  "complete": true,
+  "text": "Window, please.",
+  "eou_probability": 0.92915
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 23,
+  "complete": false,
+  "text": "Window, unless the only ones left are",
+  "eou_probability": 0.01274
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 24,
+  "complete": true,
+  "text": "A friend recommended you.",
+  "eou_probability": 0.50411
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 24,
+  "complete": false,
+  "text": "A friend of mine who works at",
+  "eou_probability": 0.00056
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 25,
+  "complete": true,
+  "text": "It's 48213.",
+  "eou_probability": 0.36327
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 25,
+  "complete": false,
+  "text": "It's 482",
+  "eou_probability": 0.02812
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 26,
+  "complete": true,
+  "text": "I'm in Durham, North Carolina.",
+  "eou_probability": 0.8929
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 26,
+  "complete": false,
+  "text": "I'm in Durham, North",
+  "eou_probability": 1e-05
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 27,
+  "complete": true,
+  "text": "Around five hundred dollars.",
+  "eou_probability": 0.50243
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 27,
+  "complete": false,
+  "text": "Around five hundred, but I could go up to",
+  "eou_probability": 0.00077
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 28,
+  "complete": true,
+  "text": "R I V E R A.",
+  "eou_probability": 0.50717
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 28,
+  "complete": false,
+  "text": "R I V",
+  "eou_probability": 0.00375
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 29,
+  "complete": true,
+  "text": "Tell her I'll be ten minutes late.",
+  "eou_probability": 0.35807
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 29,
+  "complete": false,
+  "text": "Tell her I'll be ten minutes late because",
+  "eou_probability": 0.00104
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 30,
+  "complete": true,
+  "text": "Personal.",
+  "eou_probability": 0.79982
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 30,
+  "complete": false,
+  "text": "Mostly personal, but sometimes I",
+  "eou_probability": 0.00016
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 31,
+  "complete": true,
+  "text": "I'd like to move my flight to Friday.",
+  "eou_probability": 0.30282
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 31,
+  "complete": false,
+  "text": "I'd like to move my flight to",
+  "eou_probability": 0.00075
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 32,
+  "complete": true,
+  "text": "Yes, it's working now.",
+  "eou_probability": 0.60007
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 32,
+  "complete": false,
+  "text": "Yes, it's working now, but the",
+  "eou_probability": 3e-05
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 33,
+  "complete": true,
+  "text": "It's A B 7 7 3 9 1.",
+  "eou_probability": 0.57467
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 33,
+  "complete": false,
+  "text": "It's A B 7 7",
+  "eou_probability": 0.06212
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 34,
+  "complete": true,
+  "text": "Since 2019.",
+  "eou_probability": 0.72151
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 34,
+  "complete": false,
+  "text": "Since 2019, and before that I had",
+  "eou_probability": 0.0012
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 35,
+  "complete": true,
+  "text": "A king room for two nights.",
+  "eou_probability": 0.25143
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 35,
+  "complete": false,
+  "text": "A king room for",
+  "eou_probability": 0.00014
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 36,
+  "complete": true,
+  "text": "English is fine.",
+  "eou_probability": 0.71386
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 36,
+  "complete": false,
+  "text": "English is fine, or if you have",
+  "eou_probability": 0.00033
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 37,
+  "complete": true,
+  "text": "Any time after 5 PM.",
+  "eou_probability": 0.33228
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 37,
+  "complete": false,
+  "text": "Any time after",
+  "eou_probability": 0.00084
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 38,
+  "complete": true,
+  "text": "I need to reset my password.",
+  "eou_probability": 0.77712
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 38,
+  "complete": false,
+  "text": "I need to reset my password, but I don't have access to",
+  "eou_probability": 0.00012
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 39,
+  "complete": true,
+  "text": "Nothing loaded for about an hour.",
+  "eou_probability": 0.13947
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated",
+  "i": 39,
+  "complete": false,
+  "text": "Nothing loaded for about an hour, and when it came back the",
+  "eou_probability": 1e-05
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 0,
+  "complete": true,
+  "text": "I want to book a flight to Boston.",
+  "eou_probability": 0.40828
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 0,
+  "complete": false,
+  "text": "I want to book a flight to.",
+  "eou_probability": 0.0005
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 1,
+  "complete": true,
+  "text": "It's March 3rd, 1998.",
+  "eou_probability": 0.89355
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 1,
+  "complete": false,
+  "text": "It's March 3rd and the year is.",
+  "eou_probability": 0.00674
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 2,
+  "complete": true,
+  "text": "Sure, it's 415 555 0192.",
+  "eou_probability": 0.95113
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 2,
+  "complete": false,
+  "text": "Sure, it's 415 555.",
+  "eou_probability": 0.00187
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 3,
+  "complete": true,
+  "text": "My internet keeps dropping every evening.",
+  "eou_probability": 0.51321
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 3,
+  "complete": false,
+  "text": "My internet keeps dropping every time I.",
+  "eou_probability": 1e-05
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 4,
+  "complete": true,
+  "text": "Thursday afternoon works for me.",
+  "eou_probability": 0.94821
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 4,
+  "complete": false,
+  "text": "Thursday afternoon works, but only if.",
+  "eou_probability": 0.00037
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 5,
+  "complete": true,
+  "text": "The large one, please.",
+  "eou_probability": 0.86282
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 5,
+  "complete": false,
+  "text": "The large one, and could you also.",
+  "eou_probability": 0.0006
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 6,
+  "complete": true,
+  "text": "It's 450 Main Street, Springfield.",
+  "eou_probability": 0.47888
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 6,
+  "complete": false,
+  "text": "It's 450 Main Street, apartment.",
+  "eou_probability": 0.00052
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 7,
+  "complete": true,
+  "text": "No, that's everything. Thanks!",
+  "eou_probability": 0.68886
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 7,
+  "complete": false,
+  "text": "Actually, yes. I was wondering whether.",
+  "eou_probability": 0.00036
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 8,
+  "complete": true,
+  "text": "It's under Rivera.",
+  "eou_probability": 0.36872
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 8,
+  "complete": false,
+  "text": "It's under my last name, which is.",
+  "eou_probability": 0.00142
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 9,
+  "complete": true,
+  "text": "There will be four of us.",
+  "eou_probability": 0.65148
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 9,
+  "complete": false,
+  "text": "There will be four of us, plus maybe.",
+  "eou_probability": 0.00064
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 10,
+  "complete": true,
+  "text": "It's just too expensive for me right now.",
+  "eou_probability": 0.67757
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 10,
+  "complete": false,
+  "text": "It's just too expensive, and also the.",
+  "eou_probability": 0.00013
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 11,
+  "complete": true,
+  "text": "Set it for 7 AM tomorrow.",
+  "eou_probability": 0.68827
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 11,
+  "complete": false,
+  "text": "Set it for 7 AM tomorrow and then.",
+  "eou_probability": 0.00196
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 12,
+  "complete": true,
+  "text": "My checking account.",
+  "eou_probability": 0.836
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 12,
+  "complete": false,
+  "text": "My checking account, the one that ends in.",
+  "eou_probability": 0.00059
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 13,
+  "complete": true,
+  "text": "A chicken burrito bowl with extra rice.",
+  "eou_probability": 0.11934
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 13,
+  "complete": false,
+  "text": "A chicken burrito bowl with.",
+  "eou_probability": 0.0004
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 14,
+  "complete": true,
+  "text": "It's a loud grinding sound when I brake.",
+  "eou_probability": 0.4417
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 14,
+  "complete": false,
+  "text": "It's a loud grinding sound when I.",
+  "eou_probability": 1e-05
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 15,
+  "complete": true,
+  "text": "From Raleigh Durham.",
+  "eou_probability": 0.16156
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 15,
+  "complete": false,
+  "text": "From Raleigh, but I might drive to.",
+  "eou_probability": 0.0007
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 16,
+  "complete": true,
+  "text": "It's sam at example dot com.",
+  "eou_probability": 0.93735
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 16,
+  "complete": false,
+  "text": "It's sam at.",
+  "eou_probability": 0.00012
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 17,
+  "complete": true,
+  "text": "I'd give it a seven out of ten.",
+  "eou_probability": 0.62368
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 17,
+  "complete": false,
+  "text": "I'd give it a seven, maybe an eight, because.",
+  "eou_probability": 0.00074
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 18,
+  "complete": true,
+  "text": "Yes, I'm allergic to peanuts.",
+  "eou_probability": 0.70348
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 18,
+  "complete": false,
+  "text": "Yes, I'm allergic to.",
+  "eou_probability": 0.0005
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 19,
+  "complete": true,
+  "text": "Can you tell me my current balance?",
+  "eou_probability": 0.70247
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 19,
+  "complete": false,
+  "text": "Can you tell me my current balance and.",
+  "eou_probability": 9e-05
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 20,
+  "complete": true,
+  "text": "About two weeks ago.",
+  "eou_probability": 0.83741
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 20,
+  "complete": false,
+  "text": "About two weeks ago, right after I.",
+  "eou_probability": 7e-05
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 21,
+  "complete": true,
+  "text": "Medium.",
+  "eou_probability": 0.55515
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 21,
+  "complete": false,
+  "text": "Usually a medium, but in this brand I.",
+  "eou_probability": 5e-05
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 22,
+  "complete": true,
+  "text": "I've had a headache for three days.",
+  "eou_probability": 0.2614
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 22,
+  "complete": false,
+  "text": "I've had a headache for three days and.",
+  "eou_probability": 4e-05
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 23,
+  "complete": true,
+  "text": "Window, please.",
+  "eou_probability": 0.92915
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 23,
+  "complete": false,
+  "text": "Window, unless the only ones left are.",
+  "eou_probability": 0.01274
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 24,
+  "complete": true,
+  "text": "A friend recommended you.",
+  "eou_probability": 0.50411
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 24,
+  "complete": false,
+  "text": "A friend of mine who works at.",
+  "eou_probability": 0.00056
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 25,
+  "complete": true,
+  "text": "It's 48213.",
+  "eou_probability": 0.36327
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 25,
+  "complete": false,
+  "text": "It's 482.",
+  "eou_probability": 0.02812
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 26,
+  "complete": true,
+  "text": "I'm in Durham, North Carolina.",
+  "eou_probability": 0.8929
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 26,
+  "complete": false,
+  "text": "I'm in Durham, North.",
+  "eou_probability": 1e-05
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 27,
+  "complete": true,
+  "text": "Around five hundred dollars.",
+  "eou_probability": 0.50243
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 27,
+  "complete": false,
+  "text": "Around five hundred, but I could go up to.",
+  "eou_probability": 0.00077
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 28,
+  "complete": true,
+  "text": "R I V E R A.",
+  "eou_probability": 0.50717
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 28,
+  "complete": false,
+  "text": "R I V.",
+  "eou_probability": 0.00375
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 29,
+  "complete": true,
+  "text": "Tell her I'll be ten minutes late.",
+  "eou_probability": 0.35807
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 29,
+  "complete": false,
+  "text": "Tell her I'll be ten minutes late because.",
+  "eou_probability": 0.00104
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 30,
+  "complete": true,
+  "text": "Personal.",
+  "eou_probability": 0.79982
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 30,
+  "complete": false,
+  "text": "Mostly personal, but sometimes I.",
+  "eou_probability": 0.00016
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 31,
+  "complete": true,
+  "text": "I'd like to move my flight to Friday.",
+  "eou_probability": 0.30282
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 31,
+  "complete": false,
+  "text": "I'd like to move my flight to.",
+  "eou_probability": 0.00075
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 32,
+  "complete": true,
+  "text": "Yes, it's working now.",
+  "eou_probability": 0.60007
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 32,
+  "complete": false,
+  "text": "Yes, it's working now, but the.",
+  "eou_probability": 3e-05
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 33,
+  "complete": true,
+  "text": "It's A B 7 7 3 9 1.",
+  "eou_probability": 0.57467
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 33,
+  "complete": false,
+  "text": "It's A B 7 7.",
+  "eou_probability": 0.06212
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 34,
+  "complete": true,
+  "text": "Since 2019.",
+  "eou_probability": 0.72151
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 34,
+  "complete": false,
+  "text": "Since 2019, and before that I had.",
+  "eou_probability": 0.0012
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 35,
+  "complete": true,
+  "text": "A king room for two nights.",
+  "eou_probability": 0.25143
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 35,
+  "complete": false,
+  "text": "A king room for.",
+  "eou_probability": 0.00014
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 36,
+  "complete": true,
+  "text": "English is fine.",
+  "eou_probability": 0.71386
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 36,
+  "complete": false,
+  "text": "English is fine, or if you have.",
+  "eou_probability": 0.00033
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 37,
+  "complete": true,
+  "text": "Any time after 5 PM.",
+  "eou_probability": 0.33228
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 37,
+  "complete": false,
+  "text": "Any time after.",
+  "eou_probability": 0.00084
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 38,
+  "complete": true,
+  "text": "I need to reset my password.",
+  "eou_probability": 0.77712
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 38,
+  "complete": false,
+  "text": "I need to reset my password, but I don't have access to.",
+  "eou_probability": 0.00012
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 39,
+  "complete": true,
+  "text": "Nothing loaded for about an hour.",
+  "eou_probability": 0.13947
+ },
+ {
+  "model": "multilingual",
+  "format": "punctuated+period",
+  "i": 39,
+  "complete": false,
+  "text": "Nothing loaded for about an hour, and when it came back the.",
+  "eou_probability": 1e-05
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 0,
+  "complete": true,
+  "text": "i want to book a flight to boston",
+  "eou_probability": 0.40828
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 0,
+  "complete": false,
+  "text": "i want to book a flight to",
+  "eou_probability": 0.0005
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 1,
+  "complete": true,
+  "text": "it's march 3rd 1998",
+  "eou_probability": 0.89355
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 1,
+  "complete": false,
+  "text": "it's march 3rd and the year is",
+  "eou_probability": 0.00674
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 2,
+  "complete": true,
+  "text": "sure it's 415 555 0192",
+  "eou_probability": 0.95113
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 2,
+  "complete": false,
+  "text": "sure it's 415 555",
+  "eou_probability": 0.00187
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 3,
+  "complete": true,
+  "text": "my internet keeps dropping every evening",
+  "eou_probability": 0.51321
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 3,
+  "complete": false,
+  "text": "my internet keeps dropping every time i",
+  "eou_probability": 1e-05
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 4,
+  "complete": true,
+  "text": "thursday afternoon works for me",
+  "eou_probability": 0.94821
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 4,
+  "complete": false,
+  "text": "thursday afternoon works but only if",
+  "eou_probability": 0.00037
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 5,
+  "complete": true,
+  "text": "the large one please",
+  "eou_probability": 0.86282
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 5,
+  "complete": false,
+  "text": "the large one and could you also",
+  "eou_probability": 0.0006
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 6,
+  "complete": true,
+  "text": "it's 450 main street springfield",
+  "eou_probability": 0.47888
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 6,
+  "complete": false,
+  "text": "it's 450 main street apartment",
+  "eou_probability": 0.00052
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 7,
+  "complete": true,
+  "text": "no that's everything thanks",
+  "eou_probability": 0.68886
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 7,
+  "complete": false,
+  "text": "actually yes i was wondering whether",
+  "eou_probability": 0.00036
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 8,
+  "complete": true,
+  "text": "it's under rivera",
+  "eou_probability": 0.36872
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 8,
+  "complete": false,
+  "text": "it's under my last name which is",
+  "eou_probability": 0.00142
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 9,
+  "complete": true,
+  "text": "there will be four of us",
+  "eou_probability": 0.65148
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 9,
+  "complete": false,
+  "text": "there will be four of us plus maybe",
+  "eou_probability": 0.00064
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 10,
+  "complete": true,
+  "text": "it's just too expensive for me right now",
+  "eou_probability": 0.67757
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 10,
+  "complete": false,
+  "text": "it's just too expensive and also the",
+  "eou_probability": 0.00013
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 11,
+  "complete": true,
+  "text": "set it for 7 am tomorrow",
+  "eou_probability": 0.68827
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 11,
+  "complete": false,
+  "text": "set it for 7 am tomorrow and then",
+  "eou_probability": 0.00196
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 12,
+  "complete": true,
+  "text": "my checking account",
+  "eou_probability": 0.836
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 12,
+  "complete": false,
+  "text": "my checking account the one that ends in",
+  "eou_probability": 0.00059
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 13,
+  "complete": true,
+  "text": "a chicken burrito bowl with extra rice",
+  "eou_probability": 0.11934
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 13,
+  "complete": false,
+  "text": "a chicken burrito bowl with",
+  "eou_probability": 0.0004
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 14,
+  "complete": true,
+  "text": "it's a loud grinding sound when i brake",
+  "eou_probability": 0.4417
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 14,
+  "complete": false,
+  "text": "it's a loud grinding sound when i",
+  "eou_probability": 1e-05
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 15,
+  "complete": true,
+  "text": "from raleigh durham",
+  "eou_probability": 0.16156
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 15,
+  "complete": false,
+  "text": "from raleigh but i might drive to",
+  "eou_probability": 0.0007
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 16,
+  "complete": true,
+  "text": "it's sam at example dot com",
+  "eou_probability": 0.93735
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 16,
+  "complete": false,
+  "text": "it's sam at",
+  "eou_probability": 0.00012
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 17,
+  "complete": true,
+  "text": "i'd give it a seven out of ten",
+  "eou_probability": 0.62368
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 17,
+  "complete": false,
+  "text": "i'd give it a seven maybe an eight because",
+  "eou_probability": 0.00074
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 18,
+  "complete": true,
+  "text": "yes i'm allergic to peanuts",
+  "eou_probability": 0.70348
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 18,
+  "complete": false,
+  "text": "yes i'm allergic to",
+  "eou_probability": 0.0005
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 19,
+  "complete": true,
+  "text": "can you tell me my current balance",
+  "eou_probability": 0.70247
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 19,
+  "complete": false,
+  "text": "can you tell me my current balance and",
+  "eou_probability": 9e-05
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 20,
+  "complete": true,
+  "text": "about two weeks ago",
+  "eou_probability": 0.83741
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 20,
+  "complete": false,
+  "text": "about two weeks ago right after i",
+  "eou_probability": 7e-05
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 21,
+  "complete": true,
+  "text": "medium",
+  "eou_probability": 0.55515
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 21,
+  "complete": false,
+  "text": "usually a medium but in this brand i",
+  "eou_probability": 5e-05
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 22,
+  "complete": true,
+  "text": "i've had a headache for three days",
+  "eou_probability": 0.2614
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 22,
+  "complete": false,
+  "text": "i've had a headache for three days and",
+  "eou_probability": 4e-05
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 23,
+  "complete": true,
+  "text": "window please",
+  "eou_probability": 0.92915
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 23,
+  "complete": false,
+  "text": "window unless the only ones left are",
+  "eou_probability": 0.01274
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 24,
+  "complete": true,
+  "text": "a friend recommended you",
+  "eou_probability": 0.50411
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 24,
+  "complete": false,
+  "text": "a friend of mine who works at",
+  "eou_probability": 0.00056
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 25,
+  "complete": true,
+  "text": "it's 48213",
+  "eou_probability": 0.36327
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 25,
+  "complete": false,
+  "text": "it's 482",
+  "eou_probability": 0.02812
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 26,
+  "complete": true,
+  "text": "i'm in durham north carolina",
+  "eou_probability": 0.8929
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 26,
+  "complete": false,
+  "text": "i'm in durham north",
+  "eou_probability": 1e-05
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 27,
+  "complete": true,
+  "text": "around five hundred dollars",
+  "eou_probability": 0.50243
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 27,
+  "complete": false,
+  "text": "around five hundred but i could go up to",
+  "eou_probability": 0.00077
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 28,
+  "complete": true,
+  "text": "r i v e r a",
+  "eou_probability": 0.50717
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 28,
+  "complete": false,
+  "text": "r i v",
+  "eou_probability": 0.00375
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 29,
+  "complete": true,
+  "text": "tell her i'll be ten minutes late",
+  "eou_probability": 0.35807
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 29,
+  "complete": false,
+  "text": "tell her i'll be ten minutes late because",
+  "eou_probability": 0.00104
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 30,
+  "complete": true,
+  "text": "personal",
+  "eou_probability": 0.79982
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 30,
+  "complete": false,
+  "text": "mostly personal but sometimes i",
+  "eou_probability": 0.00016
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 31,
+  "complete": true,
+  "text": "i'd like to move my flight to friday",
+  "eou_probability": 0.30282
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 31,
+  "complete": false,
+  "text": "i'd like to move my flight to",
+  "eou_probability": 0.00075
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 32,
+  "complete": true,
+  "text": "yes it's working now",
+  "eou_probability": 0.60007
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 32,
+  "complete": false,
+  "text": "yes it's working now but the",
+  "eou_probability": 3e-05
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 33,
+  "complete": true,
+  "text": "it's a b 7 7 3 9 1",
+  "eou_probability": 0.57467
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 33,
+  "complete": false,
+  "text": "it's a b 7 7",
+  "eou_probability": 0.06212
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 34,
+  "complete": true,
+  "text": "since 2019",
+  "eou_probability": 0.72151
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 34,
+  "complete": false,
+  "text": "since 2019 and before that i had",
+  "eou_probability": 0.0012
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 35,
+  "complete": true,
+  "text": "a king room for two nights",
+  "eou_probability": 0.25143
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 35,
+  "complete": false,
+  "text": "a king room for",
+  "eou_probability": 0.00014
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 36,
+  "complete": true,
+  "text": "english is fine",
+  "eou_probability": 0.71386
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 36,
+  "complete": false,
+  "text": "english is fine or if you have",
+  "eou_probability": 0.00033
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 37,
+  "complete": true,
+  "text": "any time after 5 pm",
+  "eou_probability": 0.33228
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 37,
+  "complete": false,
+  "text": "any time after",
+  "eou_probability": 0.00084
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 38,
+  "complete": true,
+  "text": "i need to reset my password",
+  "eou_probability": 0.77712
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 38,
+  "complete": false,
+  "text": "i need to reset my password but i don't have access to",
+  "eou_probability": 0.00012
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 39,
+  "complete": true,
+  "text": "nothing loaded for about an hour",
+  "eou_probability": 0.13947
+ },
+ {
+  "model": "multilingual",
+  "format": "plain",
+  "i": 39,
+  "complete": false,
+  "text": "nothing loaded for about an hour and when it came back the",
+  "eou_probability": 1e-05
+ }
+]

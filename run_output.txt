@@ -1,0 +1,11 @@
+livekit-plugins-turn-detector 1.8.10, 40 complete/incomplete pairs
+
+model         format               complete ok  incomplete held  med p(c)  med p(i)
+en            punctuated                  100%             100%    0.8972    0.0003
+en            punctuated+period           100%               0%    0.8972    0.7583
+en            plain                        75%              95%    0.0609    0.0007
+              threshold 0.0289, latency p50 1.41 ms, p95 1.58 ms
+multilingual  punctuated                  100%              92%    0.6119    0.0005
+multilingual  punctuated+period           100%              92%    0.6119    0.0005
+multilingual  plain                       100%              92%    0.6119    0.0005
+              threshold 0.011, latency p50 9.82 ms, p95 11.21 ms

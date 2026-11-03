@@ -1,0 +1,64 @@
+{
+ "plugin_version": "1.8.10",
+ "n_pairs": 40,
+ "models": {
+  "en": {
+   "revision": "v1.2.2-en",
+   "en_threshold": 0.0289,
+   "formats": {
+    "punctuated": {
+     "complete_recognized": 1.0,
+     "incomplete_held": 1.0,
+     "median_p_complete": 0.8972,
+     "median_p_incomplete": 0.0003
+    },
+    "punctuated+period": {
+     "complete_recognized": 1.0,
+     "incomplete_held": 0.0,
+     "median_p_complete": 0.8972,
+     "median_p_incomplete": 0.7583
+    },
+    "plain": {
+     "complete_recognized": 0.75,
+     "incomplete_held": 0.95,
+     "median_p_complete": 0.0609,
+     "median_p_incomplete": 0.0007
+    }
+   },
+   "latency_ms": {
+    "p50": 1.41,
+    "p95": 1.58,
+    "runs": 240
+   }
+  },
+  "multilingual": {
+   "revision": "v0.4.1-intl",
+   "en_threshold": 0.011,
+   "formats": {
+    "punctuated": {
+     "complete_recognized": 1.0,
+     "incomplete_held": 0.925,
+     "median_p_complete": 0.6119,
+     "median_p_incomplete": 0.0005
+    },
+    "punctuated+period": {
+     "complete_recognized": 1.0,
+     "incomplete_held": 0.925,
+     "median_p_complete": 0.6119,
+     "median_p_incomplete": 0.0005
+    },
+    "plain": {
+     "complete_recognized": 1.0,
+     "incomplete_held": 0.925,
+     "median_p_complete": 0.6119,
+     "median_p_incomplete": 0.0005
+    }
+   },
+   "latency_ms": {
+    "p50": 9.82,
+    "p95": 11.21,
+    "runs": 240
+   }
+  }
+ }
+}
