@@ -1,0 +1,30 @@
+[
+ {
+  "variant": "multilingual v0.4.1, normalized (eot-bench default)",
+  "auc": 0.8993,
+  "ap": 0.8234,
+  "latency_at_5pct_cutoffs_s": 0.997,
+  "latency_at_10pct_cutoffs_s": 0.698
+ },
+ {
+  "variant": "english v1.2.2, transcript as-is",
+  "auc": 0.9034,
+  "ap": 0.7764,
+  "latency_at_5pct_cutoffs_s": 0.868,
+  "latency_at_10pct_cutoffs_s": 0.634
+ },
+ {
+  "variant": "english v1.2.2, lowercase + no punctuation",
+  "auc": 0.7535,
+  "ap": 0.5725,
+  "latency_at_5pct_cutoffs_s": 1.292,
+  "latency_at_10pct_cutoffs_s": 0.857
+ },
+ {
+  "variant": "english v1.2.2, period added at every pause",
+  "auc": 0.7363,
+  "ap": 0.6149,
+  "latency_at_5pct_cutoffs_s": 1.226,
+  "latency_at_10pct_cutoffs_s": 0.886
+ }
+]
